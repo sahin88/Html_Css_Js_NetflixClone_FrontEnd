@@ -1,10 +1,5 @@
 # Netflix_Clone
 
-Live Demo:
-
-# Shopping_Card_JS_HTML_CSS
-
-
 
 This is a Netflix Clone Responsive 
 
